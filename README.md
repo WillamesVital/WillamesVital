@@ -1,6 +1,8 @@
 # 💫 About Me:
 # Hi 👋, I'm Willames Vital<be>
-<br>I'm a Tester (QA)<br><br>I'm from Recife - PE (Brazil)
+<br> I'm a Tester (QA)</br>
+<br> I'm from Recife - PE (Brazil)</br>
+<br> I'm a Student in Analysis and System Development at Estácio</br>
 
 
 ## 🌐 Socials:
