@@ -5,11 +5,23 @@
 <br> I'm a Student in Analysis and System Development at Estácio</br>
 
 ## 💻 Tech Stack:
-<img src="https://www.svgrepo.com/show/452185/css-3.svg" height="40" width="40" alt="css3 logo"  style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="40" width="40" alt="html5 logo"  style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/353925/javascript.svg" height="40" width="40" alt="javascript logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height="40" width="40" alt="java logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/373525/confluence.svg" height="40" width="40" alt="confluence logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/452241/jira.svg" height="40" width="40" alt="jira logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/331269/zendesk.svg" height="40" width="40" alt="zendesk logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/452054/linux.svg" height="40" width="40" alt="linux logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" height="40" width="40" alt="windows logo" style="max-width: 100%;"> 
+<img src="https://www.svgrepo.com/show/452185/css-3.svg" height="40" width="40" alt="css3 logo"  style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="40" width="40" alt="html5 logo"  style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/353925/javascript.svg" height="40" width="40" alt="javascript logo" style="max-width: 100%;">   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="40" width="40" alt="python logo" style="max-width: 100%;">
+
+## 🖥️ Operating System:
+
+<img src="https://www.svgrepo.com/show/452054/linux.svg" height="40" width="40" alt="linux logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" height="40" width="40" alt="windows logo" style="max-width: 100%;"> 
+
+## 🔨 Tools:
+<img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="40" width="40" alt="vscode logo"  style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/373525/confluence.svg" height="40" width="40" alt="confluence logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/452241/jira.svg" height="40" width="40" alt="jira logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/331269/zendesk.svg" height="40" width="40" alt="zendesk logo" style="max-width: 100%;"> <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" height="40" width="40" alt="eclipse logo" style="max-width: 100%;">
 
 
-## 💻 Automation:
-<img src="https://camo.githubusercontent.com/ddde3e3b356fa6da7bbcb2545e9e40da69f76d80b39c61b1098ac2c7891da457/68747470733a2f2f61737365742e6272616e6466657463682e696f2f696449715f6b463072622f696476337a776d5369592e6a7065673f757064617465643d31363637353635333036383532" height="40" width="40" alt="cypress logo" data-canonical-src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/2e898aef23bd43cfeb7aff827bf7a70cde39fbff2b46506ae4576a7e9179d9c7/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3337343034392f726f626f746672616d65776f726b2e737667" height="40" width="52" alt="robot logo" data-canonical-src="https://www.svgrepo.com/show/374049/robotframework.svg" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/354321/selenium.svg" height="40" width="52" alt="robot logo" data-canonical-src="https://www.svgrepo.com/show/354321/selenium.svg" style="max-width: 100%;"> 
+## 🧪 Testing:
+<img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" height="40" width="40" alt="cypress logo"  style="max-width: 100%;"> <img src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png" height="40" width="40" alt="robot logo"  style="max-width: 100%;">
+<img src="https://www.svgrepo.com/show/354321/selenium.svg" height="40" width="52" alt="robot logo" data-canonical-src="https://www.svgrepo.com/show/354321/selenium.svg" style="max-width: 100%;"> 
+<img src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" height="40" width="40" alt="cucumber logo"  style="max-width: 100%;"> <img src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" height="40" width="40" alt="cucumber logo"  style="max-width: 100%;">
+
+## 💾 Database:
+<img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="40" width="40" alt="mongodb logo"  style="max-width: 100%;">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/willames.vital) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/willames-vital-46805b247/) 
