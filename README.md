@@ -20,6 +20,8 @@
 <img src="https://www.svgrepo.com/show/354321/selenium.svg" height="40" width="52" alt="robot logo" data-canonical-src="https://www.svgrepo.com/show/354321/selenium.svg" style="max-width: 100%;"> 
 <img src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" height="40" width="40" alt="cucumber logo"  style="max-width: 100%;"> 
 
+<img src="/WillamesVital/playwright-logo.svg" height="40" width="40" alt="playwright logo"  style="max-width: 100%;"> 
+
 ## 💾 Database:
 <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height="40" width="40" alt="mongodb logo"  style="max-width: 100%;">
 
