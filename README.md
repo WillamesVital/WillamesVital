@@ -5,11 +5,11 @@
 <br> I'm a Student in Analysis and System Development at Estácio</br>
 
 ## 💻 Tech Stack:
-<img src="https://www.svgrepo.com/show/452185/css-3.svg" height="40" width="40" alt="css3 logo"  style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="40" width="40" alt="html5 logo"  style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/353925/javascript.svg" height="40" width="40" alt="javascript logo" style="max-width: 100%;">   <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="40" width="40" alt="python logo" style="max-width: 100%;">
+<img src="https://www.svgrepo.com/show/452185/css-3.svg" height="40" width="40" alt="css3 logo"  style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/452228/html-5.svg" height="40" width="40" alt="html5 logo"  style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/353925/javascript.svg" height="40" width="40" alt="javascript logo" style="max-width: 100%;">  <img src="https://www.svgrepo.com/show/374146/typescript-official.svg" height="40" width="40" alt="typescript logo" style="max-width: 100%;"> <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height="40" width="40" alt="python logo" style="max-width: 100%;"> 
 
 ## 🖥️ Operating System:
 
-<img src="https://www.svgrepo.com/show/452054/linux.svg" height="40" width="40" alt="linux logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" height="40" width="40" alt="windows logo" style="max-width: 100%;"> 
+<img src="https://www.svgrepo.com/show/452054/linux.svg" height="40" width="40" alt="linux logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" height="40" width="40" alt="windows logo" style="max-width: 100%;"> <img src="" height="40" width="40" alt="macos logo" style="max-width: 100%;">
 
 ## 🔨 Tools:
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="40" width="40" alt="vscode logo"  style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/373525/confluence.svg" height="40" width="40" alt="confluence logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/452241/jira.svg" height="40" width="40" alt="jira logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/331269/zendesk.svg" height="40" width="40" alt="zendesk logo" style="max-width: 100%;"> <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" height="40" width="40" alt="eclipse logo" style="max-width: 100%;">
