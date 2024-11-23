@@ -9,7 +9,7 @@
 
 ## 🖥️ Operating System:
 
-<img src="https://www.svgrepo.com/show/452054/linux.svg" height="40" width="40" alt="linux logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" height="40" width="40" alt="windows logo" style="max-width: 100%;"> <img src="" height="40" width="40" alt="macos logo" style="max-width: 100%;">
+<img src="https://www.svgrepo.com/show/452054/linux.svg" height="40" width="40" alt="linux logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/382713/windows-applications.svg" height="40" width="40" alt="windows logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/349442/macos.svg" height="40" width="40" alt="macos logo" style="max-width: 100%;">
 
 ## 🔨 Tools:
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" height="40" width="40" alt="vscode logo"  style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/373525/confluence.svg" height="40" width="40" alt="confluence logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/452241/jira.svg" height="40" width="40" alt="jira logo" style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/331269/zendesk.svg" height="40" width="40" alt="zendesk logo" style="max-width: 100%;"> <img src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" height="40" width="40" alt="eclipse logo" style="max-width: 100%;">
@@ -18,7 +18,8 @@
 ## 🧪 Testing:
 <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" height="40" width="40" alt="cypress logo"  style="max-width: 100%;"> <img src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png" height="40" width="40" alt="robot logo"  style="max-width: 100%;">
 <img src="https://www.svgrepo.com/show/354321/selenium.svg" height="40" width="52" alt="robot logo" data-canonical-src="https://www.svgrepo.com/show/354321/selenium.svg" style="max-width: 100%;"> 
-<img src="https://user-images.githubusercontent.com/25181517/184117353-4b437677-c4bb-4f4c-b448-af4920576732.png" height="40" width="40" alt="cucumber logo"  style="max-width: 100%;"> 
+<img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" height="40" width="40" alt="playwright logo"  style="max-width: 100%;"> <img src="https://www.svgrepo.com/show/354792/android.svg" height="40" width="40" alt="android logo"  style="max-width: 100%;">  <img src="https://www.svgrepo.com/show/452233/ios.svg" height="40" width="40" alt="apple logo"  style="max-width: 100%;">  
+
 
 
 ## 💾 Database:
